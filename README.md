@@ -1440,6 +1440,7 @@ The key tools for building AI agents include benchmarks (to evalutae performance
 - [Macllm](https://github.com/appenz/macLLM) - Tool to integrate LLM's like GPT-3 with macOS
 - [Markdown_Llm](https://github.com/matweldon/markdown_llm) - A tool for interacting with an LLM in a markdown document
 - [Mastermind](https://github.com/theoforger/mastermind) - An LLM-powered CLI tool to help you be a better spymaster in Codenames
+- [Metorial](https://github.com/metorial/metorial) - Connect AI agents to 600+ integrations with a single interface - OAuth, scaling, and monitoring included
 - [Mcp-Go](https://github.com/mark3labs/mcp-go) - A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources…
 - [Mcphost](https://github.com/mark3labs/mcphost) - A CLI host application that enables Large Language Models (LLMs) to interact with external tools through the Model Context Protocol (MCP).
 - [Mergekit](https://github.com/arcee-ai/mergekit) - Tools for merging pretrained large language models.
